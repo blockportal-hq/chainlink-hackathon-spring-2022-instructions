@@ -1,10 +1,10 @@
 # chainlink-hackathon-spring-2022-instructions
 
 
-CHALLENGES 
+# CHALLENGES 
 
-Challenge 1:  
-Use a Smart Contract to send a message to a holders of a security token. 
+## Challenge 1:  
+#### Use a Smart Contract to send a message to a holders of a security token. 
 
 Just like shareholders in public companies, holders of Security Tokens want to receive periodic messages, notices, and reports from "management."  In this challenge, you will use a smart contract, connected via Chainlink, to manage a "notice of distribution" (dividend) sent by the management of a Tokeny Security token.   
 
@@ -12,12 +12,10 @@ The message will be personalized based on the tokenholders' share, dividing the 
 
 The winning entry will be a smart contract that uses Chainlink's oracle and smart contract functions to integrate the function of: Inveniam.io (DLT-validated Investment management), Tokeny.com (OnChainID for investors), and Chainlink and use the functions of blockportal.com. 
 
- 
-
 In the challenge example. a group of apartments has been tokenized and fractionalized and would like to send a notice to its token holders that they will soon receive their fair share of a dividend payment. 
 
-Challenge 2: 
-Use a Smart Contract to Pay a dividend via stablecoin to holders of a security token. 
+## Challenge 2:
+#### Use a Smart Contract to Pay a dividend via stablecoin to holders of a security token. 
 
 Just like shareholders in public companies, holders of Security Tokens want to receive periodic income from their investments.  In this challenge, you will use a smart contract, connected via Chainlink, to manage the simple computation and on-chain payment of a dividend sent by the management of a Tokeny Security token.   
 
@@ -25,69 +23,62 @@ The Token's total dividend payment will be divided between token holders accordi
 
 The winning entry will be a smart contract that uses chain.link's oracle and smart contract functions to integrate the function of: Inveniam.io (DLT-validated Investment management), Tokeny.com (OnChainID for investors), and Chain.Link and use the functions of blockportal.com. 
 
- 
-
 In the challenge example. a group of apartments has been tokenized and fractionalized and would like to declare a dividend worth about USD 11,000 in total and divide it among its tokenholders (of a Tokeny security token) 
-
  
 
-Page Break
- 
+# TECHNOLOGY PARTNERS 
 
-TECHNOLOGY PARTNERS 
-
-Accumulate Protocol (ACME) (https://accumulatenetwork.io/) 
+## Accumulate Protocol (ACME) (https://accumulatenetwork.io/) 
 
 A Low cost, high volume storage of event logs (currently operating as the Factom chain) used internally by Inveniam to record asset performance 
 
-Inveniam.io (inveniam.io) 
+## Inveniam.io (inveniam.io) 
 
 The Inveniam.io system is where the message to investors will be generated and approved by Management of the investment. Inveniam.io provides Asset management, Workflow, and DLT proof of: documents, values, and transactions. 
 
-Tokeny (tokeny.com) 
+## Tokeny (tokeny.com) 
 
 A Tokeny security token records the identities and secure addresses of tokenholders, thereby creating security tokens  that are compliant with local securities laws.  Tokeny provides most "Investor relations" functions that are traditional in public companies but are unusual for digital assets.  Specifically, Tokeny provides Management of the "Cap Table" showing which investors own how much of the company at any given time.  The Cap Table allows for  dividing ownership and dividends between investors.  Tokeny also supplies Anti-Money Laundering (AML) and Know Your Customer (KYC) checks on investment holders to ensure that they came by their money legally, and are using it for legal functions.   
 
-Token Exchange (Alternative Trading Systems) 
+# Token Exchange (Alternative Trading Systems) 
 
 Alternative Trading Systems allow a token to be bought/sold in a marketplace after issuance.  In our example, it may be that a token has changed owners since it was issued, and that this information will have been given to Tokeny to update the "cap table" (a company's listing of its shareholders). Examples include: 
 
-Oasis Pro Markets (oasispromarkets.com) 
+## Oasis Pro Markets (oasispromarkets.com) 
 
-MakerDAO (makerdao.com) 
+## MakerDAO (makerdao.com) 
 
-Rialto (rialtomarkets.com) 
+## Rialto (rialtomarkets.com) 
 
-Page Break
  
 
-FLOWCHART & DESCRIPTION (see lucidchart ) 
+# FLOWCHART & DESCRIPTION (see lucidchart ) 
 
-Inveniam Asset Management 
+## Inveniam Asset Management 
 
 Inveniam provides a platform for creating a verified record of an asset's existence off-chain the legal, financial, or physical world.  Assets like companies or real estate are known via their legal documents, operational data (including IoT/sensors where available), and their financial data (as provided by Management) 
 
-Asset onboarded 
+#### Asset onboarded 
 
 Onboarding an asset involves identifying an asset by its name, its type, its corporate form, its management team, and the workflows required to keep its data current and accurate.  A page is created for each asset, along with related pages for managing the asset. 
 
-Creation of a Federated Data Room (a deal room owned by the asset) 
+#### Creation of a Federated Data Room (a deal room owned by the asset) 
 
 While not directly part of the challenge, there is a data room, owned by the Token’s Management that stores documents and data associated with the performance of the underlying asset (such as that it has excess cash that can be paid out) and recording management’s decisions (such as that a dividend will be paid in a certain amount on a certain date). 
 
-Identification of a team that manages the tokenized asset 
+#### Identification of a team that manages the tokenized asset 
 
 The team that manages an asset includes roles that are authorized to report and approve financial performance and to approve and pay dividends.   
 
-Identification of the data required to ascertain the asset's value and financial performance 
+#### Identification of the data required to ascertain the asset's value and financial performance 
 
 In order to pay a dividend, an asset should have a valuation (to determine its value) and records of financial performance to determine the amount of available funds for paying a cash dividend. 
 
-Definition of the ongoing processes needed to maintain the asset 
+#### Definition of the ongoing processes needed to maintain the asset 
 
 Assets may differ on the kinds of information needed to support a valuation and report performance, but whatever these are, the Inveniam.io system defines a workflow that supports the updating, review and valuation of an asset. 
 
-Documents uploaded and anchored to blockchain 
+#### Documents uploaded and anchored to blockchain 
 
 Documents typically include legal and contractual PDFs and spreadsheets or reports of financial performance.   
 
@@ -95,35 +86,33 @@ For real estate documents can also include leases, tax information, surveys, flo
 
 Real estate investments may also be structured as limited partnerships holding equity or debt associated with the underlying real estate. 
 
-Data artifacts created 
+#### Data artifacts created 
 
 A Data Artifact is a data structure containing the normalized data associated. These data artifacts are reviewed, onboarded to Inveniam.io and Asset value/mark is set according to details provided in valuation report (1.4). The asset's value is stored and a supporting hash is written to the appropriate blockchain/DLT. 
 
-Valuation report created by valuation agent 
+#### Valuation report created by valuation agent 
 
 For Real Estate assets, the valuation is an appraisal performed by a licensed appraiser.  The appraisal report is received by Inveniam, extracted, and both the document and its data artifact are hashed and the hash is written to the appropriate blockchain/DLT. 
 
-Asset value/mark set 
+#### Asset value/mark set 
 
 Asset value/mark is set according to details provided in valuation report (1.4). The asset's value is stored and a supporting hash is written to the appropriate blockchain/DLT. 
 
-Tokenization requirements set 
+#### Tokenization requirements set 
 
- 
+#### Number of shares authorized and issued 
 
-Number of shares authorized and issued 
+#### Classes of share ownership (preferred, common, limited partners) 
 
-Classes of share ownership (preferred, common, limited partners) 
+#### List of shareholders and position classes and sizes 
 
-List of shareholders and position classes and sizes 
-
-Tokeny Investor Management 
+# Tokeny Investor Management 
 
 Tokeny is a platform for issuing tokens that conform to and comply with national laws and regulations around the issuance and marketing of securities. 
 
  
 
-Asset tokenized based on requirements (Tokeny security token / smart contract) 
+#### Asset tokenized based on requirements (Tokeny security token / smart contract) 
 
 A Tokeny Security Token is designed to both reflect the security (financial contract) and the underlying asset (such as income-producing real estate) and for its legal provisions to meet local securities law. (Investopedia: What are Investment Securities?) 
 
