@@ -348,4 +348,7 @@ Chainlink node physical creation (Dynamic Mining)
 
 Chainlink node begins operating 
 
+
+DEAL PDF >>> DEAL NOTICE >>> CONVERT TO JSON >>> HASH JSON ( aka Checksum with internal pointer to the Inveniam DB ) >>> PUBLISH HASH TO THE BLOCKCHAIN with POINTER, DEAL JSON HASH, BLOCKCHAIN BLOCK(?)
+
  
