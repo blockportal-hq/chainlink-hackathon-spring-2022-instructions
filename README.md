@@ -44,11 +44,11 @@ A Tokeny security token records the identities and secure addresses of tokenhold
 
 Alternative Trading Systems allow a token to be bought/sold in a marketplace after issuance.  In our example, it may be that a token has changed owners since it was issued, and that this information will have been given to Tokeny to update the "cap table" (a company's listing of its shareholders). Examples include: 
 
-## Oasis Pro Markets (oasispromarkets.com) 
+#### Oasis Pro Markets (oasispromarkets.com) 
 
-## MakerDAO (makerdao.com) 
+#### MakerDAO (makerdao.com) 
 
-## Rialto (rialtomarkets.com) 
+#### Rialto (rialtomarkets.com) 
 
  
 
