@@ -71,7 +71,7 @@ The Inveniam.io system is where the message to investors will be generated and a
     - Polygon (Mumbai)
       - Address: [0x78d7164e7c38d2bd577746b7ad14cd682a26539c](https://urldefense.proofpoint.com/v2/url?u=https-3A__blockscan.com_address_0x78d7164e7c38d2bd577746b7ad14cd682a26539c&amp;d=DwMFaQ&amp;c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&amp;r=wwMDO-PpcsKYfuukO0-WtcUCFTergulK4hjUC-ONpkg&amp;m=bQN8M5I6d6ZhJ9VDjJox5i9KIGt4e8GhsuPfH5KNSJw&amp;s=GsXYBbcNDYtarg4x-HLCQO6eCubyrcCDBuGj03AtBxM&amp;e=)
 - **Investors**
-  - Email inbox
+  - Email inbox (for QA purposes only)
     - [https://www.google.com/gmail/](https://www.google.com/gmail/)
     - Credentials: [https://discord.gg/swZw7fbax4](https://discord.gg/swZw7fbax4)
 - **Notification and Distribution Data**
