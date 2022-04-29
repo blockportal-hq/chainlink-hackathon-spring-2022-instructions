@@ -105,7 +105,10 @@ A Tokeny security token records the identities and secure addresses of token hol
 ### **Chainlink (**[**https://chain.link/**](https://chain.link/)**)**
 
 - **Chainlink Node**
+  
+  Reference documentation for Chainlink large bytes request/response: <https://ijonas.com/fetching-large-responses-with-chainlink-anyapi>
+
   - Polygon (Mumbai)
-    - Node account address:
-    - Operator contract:
-    - BytesRequest contract:
+    - Node account address: `0x6C65C2586b52172fa71034c4002c2BFbE7C9e8F6`
+    - Operator contract: `0xa16DA7EF5DC9F124a030c473c457d41e287CBBb4`
+    - External Job Id (Spec Id): `2c23d622-68f3-4603-b4d6-1afcd16feddc` (Use without dashes: `2c23d62268f34603b4d61afcd16feddc`)
