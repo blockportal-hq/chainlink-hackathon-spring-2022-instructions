@@ -3,7 +3,8 @@
 
 Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackathon! The challenges presented below involve creating novel solutions for the emerging decentralized finance space. If you choose to take on these challenges, you will be working between the platforms of multiple companies spearheading the global trading of tokenized assets! These companies include Inveniam, Tokeny, Blockportal, Accumulate, and Chainlink.
 
-**Things To Note**
+
+## **Things To Note**
 
 1. These hackathon challenges are available on the **Polygon Testnet (Mumbai)**.
 2. You may participate in one or both challenges.
@@ -12,7 +13,8 @@ Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackath
 4. Please direct any questions or comments regarding the hackathon challenges to the BlockPortal Discord channels where team members will be available to assist you.
 5. To gain access to the credentials used for these Hackathon challenges, you must join the BlockPortal Discord Server and be assigned the role of &quot;hacker&quot; by a team member.
 
-**Setting the Stage**
+
+## **Setting the Stage**
 
 - **Property XYZ** is a multifamily apartment complex
 - The owner of Property XYZ wanted to increase the **liquidity** of their real estate asset, so they decided to **tokenize** the equity relating to the asset
@@ -24,9 +26,10 @@ Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackath
 
 ![](RackMultipart20220429-1-lwty4a_html_e51ddc5a586acc3b.png)
 
-**The Challenges**
 
-**Challenge 1: Use a Smart Contract to send a message to holders of a security token.**
+## **The Challenges**
+
+### **Challenge 1: Use a Smart Contract to send a message to holders of a security token.**
 
 Just like shareholders in public companies, holders of Security Tokens want to receive periodic messages, notices, and reports from &quot;management.&quot; In this challenge, you will use a smart contract, connected via Chainlink, to manage a &quot;notice of distribution&quot; (dividend) sent by the management of a Tokeny Security token.
 
@@ -34,7 +37,7 @@ The message will be personalized based on the tokenholders&#39; share, dividing 
 
 The winning entry will be a dApp/smart contract that uses Chainlink&#39;s oracle and smart contract functions to integrate the function of: a JSON Transaction file, Tokeny (OnChainID for investors), and uses the single-source Chainlink node managed by BlockPortal.
 
-## **Challenge 2: Use a Smart Contract to Pay a dividend via stablecoin to holders of a security token.**
+### **Challenge 2: Use a Smart Contract to Pay a dividend via stablecoin to holders of a security token.**
 
 Just like shareholders in public companies, holders of Security Tokens want to receive periodic income from their investments. In this challenge, you will use a smart contract, connected via Chainlink, to manage the simple computation and on-chain payment of a dividend sent by the management of a Tokeny Security token.
 
@@ -42,13 +45,15 @@ The Token&#39;s total dividend payment of $46,261.65 will be divided between tok
 
 The winning entry will be a dApp/smart contract that uses Chainlink&#39;s oracle and smart contract functions to integrate the function of: a JSON Transaction file, Tokeny (OnChainID for investors), and uses the single-source Chainlink node managed by BlockPortal.
 
-**Sample High-Level Workflow**
+
+## **Sample High-Level Workflow**
 
 ![](RackMultipart20220429-1-lwty4a_html_cfa870e624f3677a.png)
 
-**Assets and Links**
 
-**Accumulate Protocol (ACME)** **(**[**https://accumulatenetwork.io/**](https://accumulatenetwork.io/)**)**
+## **Assets and Links**
+
+### **Accumulate Protocol (ACME)** **(**[**https://accumulatenetwork.io/**](https://accumulatenetwork.io/)**)**
 
 A low cost, high volume storage of event logs (currently operating as the Factom chain) used internally by Inveniam to record asset performance.
 
@@ -57,7 +62,7 @@ A low cost, high volume storage of event logs (currently operating as the Factom
 - **Proving the Proof**
   - Guide: [https://gitlab.com/accumulatenetwork/sdk/anchor-solidity](https://gitlab.com/accumulatenetwork/sdk/anchor-solidity)
 
-**Inveniam (**[**https://inveniam.io/**](https://inveniam.io/)**)**
+### **Inveniam (**[**https://inveniam.io/**](https://inveniam.io/)**)**
 
 The Inveniam.io system is where the message to investors will be generated and approved by Management of the investment. Inveniam.io provides Asset management, Workflow, and DLT proof of: documents, values, and transactions.
 
@@ -79,7 +84,7 @@ The Inveniam.io system is where the message to investors will be generated and a
       - Checksum:
       - Contract:
 
-**Tokeny (**[**https://tokeny.com/**](https://tokeny.com/)**)**
+### **Tokeny (**[**https://tokeny.com/**](https://tokeny.com/)**)**
 
 A Tokeny security token records the identities and secure addresses of token holders, thereby creating security tokens that are compliant with local securities laws. Tokeny provides most &quot;Investor relations&quot; functions that are traditional in public companies but are unusual for digital assets. Specifically, Tokeny provides Management of the &quot;Cap Table&quot; showing which investors own how much of the company at any given time. The Cap Table allows for dividing ownership and dividends between investors. Tokeny also supplies Anti-Money Laundering (AML) and Know Your Customer (KYC) checks on investment holders to ensure that they came by their money legally, and are using it for legal functions.
 
@@ -91,13 +96,13 @@ A Tokeny security token records the identities and secure addresses of token hol
     - Smart contract: [0x70f9c5b6a4cb603723fd30526a5b8f446079a690](https://mumbai.polygonscan.com/token/0x70f9c5b6a4cb603723fd30526a5b8f446079a690)
 - **Tokeny Servicing API**
   - Polygon (Mumbai)
-    - API endpoints will need to point to &quot;_ **servicing-api-testing&quot;** _
+    - API endpoints will need to point to **servicing-api-testing**
     - Credentials: [https://discord.gg/swZw7fbax4](https://discord.gg/swZw7fbax4)
   - API Documentation: https://tokeny-solutions.readme.io/reference
 - **ONCHAINID**
   - Smart Contract Documentation: [https://github.com/onchain-id/solidity](https://github.com/onchain-id/solidity)
 
-**Chainlink (**[**https://chain.link/**](https://chain.link/)**)**
+### **Chainlink (**[**https://chain.link/**](https://chain.link/)**)**
 
 - **Chainlink Node**
   - Polygon (Mumbai)
