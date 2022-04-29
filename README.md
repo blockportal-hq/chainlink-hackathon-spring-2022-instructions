@@ -24,7 +24,7 @@ Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackath
 - **52 accredited investors** with **ONCHAINID&#39;s** purchased varying amounts of the security token, entitling them to a portion of Property XYZ&#39;s equity
 - After one quarter had passed, the valuation of Property XYZ had increased so the owner is required to pay out a **distribution totaling 46,261.65 USDX** to all shareholders
 
-![](RackMultipart20220429-1-lwty4a_html_e51ddc5a586acc3b.png)
+![Inveniam Hackathon Tokenization](https://uploads-ssl.webflow.com/61e1c00981eb8551acfd7317/626c1c03c09fb291930dc9f3_Inveniam%20Hackathon%20Tokenization.png)
 
 
 ## **The Challenges**
@@ -48,7 +48,7 @@ The winning entry will be a dApp/smart contract that uses Chainlink&#39;s oracle
 
 ## **Sample High-Level Workflow**
 
-![](RackMultipart20220429-1-lwty4a_html_cfa870e624f3677a.png)
+![Inveniam Hackathon High-Level Workflow](https://uploads-ssl.webflow.com/61e1c00981eb8551acfd7317/626c1c0345c0fe8ab97aaea1_Inveniam%20Hackathon%20Workflow.png)
 
 
 ## **Assets and Links**
