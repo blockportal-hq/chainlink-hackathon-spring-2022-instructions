@@ -82,7 +82,7 @@ The Inveniam.io system is where the message to investors will be generated and a
   - **Distribution JSON**
     - Polygon (Mumbai)
       - Checksum:
-      - Contract:
+      - Contract: [0x9856e4115bfd48a32ffd551b2473ee56f5f16bd92cd234a13c7e5d155057a363](https://mumbai.polygonscan.com/tx/0x9856e4115bfd48a32ffd551b2473ee56f5f16bd92cd234a13c7e5d155057a363)
 
 ### **Tokeny (**[**https://tokeny.com/**](https://tokeny.com/)**)**
 
