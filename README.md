@@ -1,7 +1,7 @@
 #
 # **CHAINLINK SPRING 2022 HACKATHON: INVENIAM CHALLENGES INSTRUCTIONS**
 
-Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackathon! The challenges presented below involve creating novel solutions for the emerging decentralized finance space. If you choose to take on these challenges, you will be working between the platforms of multiple companies spearheading the global trading of tokenized assets! These companies include Inveniam, Tokeny, Blockportal, Accumulate, and Chainlink.
+Welcome to Inveniam&#39;s Hackathon Challenges for Chainlink Spring 2022 Hackathon! The challenges presented below involve creating novel solutions for the emerging decentralized finance space. If you choose to take on these challenges, you will be working between the platforms of multiple companies spearheading the global trading of tokenized assets! These companies include Inveniam, Tokeny, BlockPortal, Accumulate, and Chainlink.
 
 
 ## **Things To Note**
