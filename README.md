@@ -108,8 +108,7 @@ BlockPortal is the Chainlink node operator for Inveniam's single-source data set
 
 - **Chainlink Node**
   
-  Reference documentation for Chainlink large bytes request/response: <https://ijonas.com/fetching-large-responses-with-chainlink-anyapi>
-
+  - Reference documentation for Chainlink large bytes request/response: <https://ijonas.com/fetching-large-responses-with-chainlink-anyapi>
   - Polygon (Mumbai)
     - Node account address: `0x6C65C2586b52172fa71034c4002c2BFbE7C9e8F6`
     - Operator contract: `0xa16DA7EF5DC9F124a030c473c457d41e287CBBb4`
