@@ -59,6 +59,8 @@ A low cost, high volume storage of event logs (currently operating as the Factom
 
 - **Identity Proof JSON**
   - [https://gitlab.com/accumulatenetwork/sdk/anchor-solidity/-/blob/main/identity\_proof\_compact.json](https://gitlab.com/accumulatenetwork/sdk/anchor-solidity/-/blob/main/identity_proof_compact.json)
+  - Polygon (Mumbai)
+    - Contract: [0x0A9b03695E91F9E3b55a0127dad1581D4D47ea3A](https://mumbai.polygonscan.com/address/0x0a9b03695e91f9e3b55a0127dad1581d4d47ea3a)
 - **Proving the Proof**
   - Guide: [https://gitlab.com/accumulatenetwork/sdk/anchor-solidity](https://gitlab.com/accumulatenetwork/sdk/anchor-solidity)
 
@@ -77,11 +79,9 @@ The Inveniam.io system is where the message to investors will be generated and a
 - **Notification and Distribution Data**
   - Notification JSON
     - Polygon (Mumbai)
-      - Checksum: df40050ead01fcb1fb1a46372200d6df76526d1aa815d560d10baf01009a0766
       - Contract: [0x0b297f5896ba9d4c13ab84ebccf501fed229ac594c1c4387e9058a2e7adabe3a](https://mumbai.polygonscan.com/tx/0x0b297f5896ba9d4c13ab84ebccf501fed229ac594c1c4387e9058a2e7adabe3a)
   - Distribution JSON
     - Polygon (Mumbai)
-      - Checksum:
       - Contract: [0x9856e4115bfd48a32ffd551b2473ee56f5f16bd92cd234a13c7e5d155057a363](https://mumbai.polygonscan.com/tx/0x9856e4115bfd48a32ffd551b2473ee56f5f16bd92cd234a13c7e5d155057a363)
 
 ### **Tokeny (**[**https://tokeny.com/**](https://tokeny.com/)**)**
