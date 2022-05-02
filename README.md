@@ -102,7 +102,9 @@ A Tokeny security token records the identities and secure addresses of token hol
 - **ONCHAINID**
   - Smart Contract Documentation: [https://github.com/onchain-id/solidity](https://github.com/onchain-id/solidity)
 
-### **Chainlink (**[**https://chain.link/**](https://chain.link/)**)**
+### **Chainlink (**[**https://chain.link/**](https://chain.link/)**) / BlockPortal ([**https://www.blockportal.com/**](https://www.blockportal.com/))**
+
+BlockPortal is the Chainlink node operator for Inveniam's single-source data sets. BlockPortal's node has two jobs available which contain data for the two hackathon challenges. These jobs return JSON objects which contain all the information necessary to complete the challenges. These JSON objects can also be verified using Inveniam smart contracts which contain the hashes of the original data.
 
 - **Chainlink Node**
   
